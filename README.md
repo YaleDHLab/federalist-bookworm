@@ -1,3 +1,8 @@
+# Note: This repository has been archived
+This project was developed under a previous phase of the Yale Digital Humanities Lab. Now a part of Yale Library’s Computational Methods and Data department, the Lab no longer includes this project in its scope of work. As such, it will receive no further updates.
+
+### Description
+
 This is a set of wrappers around a markup copy of the Federalist papers in XML, one of the classical texts for statistical learning and authorship attribution. My thanks to Matt Jockers for providing the marked-up XML; other files (such as the XML to json parser) I created myself. There is no official license on this: I suspect you would be safe to treat the Jockers-Witten parts as CC-BY-NC, and the Schmidt parts as public domain.
 
 ### Bookworm Testing
